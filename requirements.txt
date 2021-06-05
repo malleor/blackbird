@@ -1,1 +1,4 @@
 jupyterlab
+scipy
+ffmpeg-python
+matplotlib
