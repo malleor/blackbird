@@ -4,6 +4,8 @@
 
 Data source: Daniele Baroni on [xeno-canto](http://www.xeno-canto.org/653412)
 
+![labels](/labels.png "Labeled spectrogram for XC653412")
+
 # install
 
 Set up the environment and dependencies:
