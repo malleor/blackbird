@@ -2,7 +2,7 @@
 
 ![spectrogram](/spectro.png "Example spectrogram for XC653412")
 
-Data source: Daniele Baroni on [xeno-canto](www.xeno-canto.org/653412)
+Data source: Daniele Baroni on [xeno-canto](http://www.xeno-canto.org/653412)
 
 # install
 
