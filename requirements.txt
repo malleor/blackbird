@@ -2,3 +2,5 @@ jupyterlab
 scipy
 ffmpeg-python
 matplotlib
+pandas
+seaborn
